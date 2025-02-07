@@ -1,0 +1,4 @@
+hadoop java hive sqoop
+hadoop hadoop java
+spark spark
+pig hbase hbase
